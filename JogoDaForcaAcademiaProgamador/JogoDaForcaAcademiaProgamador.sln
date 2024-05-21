@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaForcaAcademiaProgamador", "JogoDaForcaAcademiaProgamador\JogoDaForcaAcademiaProgamador.csproj", "{9D92EA7A-6975-4CAB-9BCA-8D690B3ACCCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{52242260-D941-43FF-BE24-9975FEF12565}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D92EA7A-6975-4CAB-9BCA-8D690B3ACCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D92EA7A-6975-4CAB-9BCA-8D690B3ACCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D92EA7A-6975-4CAB-9BCA-8D690B3ACCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D92EA7A-6975-4CAB-9BCA-8D690B3ACCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B21993-0E5C-4C08-90E7-62B64D88DBC6}
+	EndGlobalSection
+EndGlobal
